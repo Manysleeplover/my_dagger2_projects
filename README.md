@@ -1,2 +1,2 @@
-# my_dugger2_projects
-my_dugger2_projects
+# my_dagger2_projects
+my_dagger2_projects
